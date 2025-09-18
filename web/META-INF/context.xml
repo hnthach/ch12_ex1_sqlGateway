@@ -8,7 +8,7 @@
               maxIdle="30"
               maxWaitMillis="10000"
               driverClassName="org.postgresql.Driver"
-              url="jdbc:postgresql://dpg-d3607s2li9vc738qbdig-a:5432/murachdb"
+              url="jdbc:postgresql://dpg-d3607s2li9vc738qbdig-a.oregon-postgres.render.com:5432/murachdb"
               username="murachdb_user"
               password="ArJ1EmPkYTzKTZLSZ9xHlXZIubb9KmBe"/>
 </Context>
