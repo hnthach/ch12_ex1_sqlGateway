@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ch12_ex1_sqlGateway">
+
+    <Resource name="jdbc/murach"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxTotal="100"
+              maxIdle="30"
+              maxWaitMillis="10000"
+              driverClassName="org.postgresql.Driver"
+              url="jdbc:postgresql://dpg-d3607s2li9vc738qbdig-a:5432/murachdb"
+              username="murachdb_user"
+              password="ArJ1EmPkYTzKTZLSZ9xHlXZIubb9KmBe"/>
+</Context>
